@@ -7,14 +7,11 @@ Virtual Machines предоставляют нам hardware level virtualization
 ##### Отличие
 > ``Virtual Machine``: состоит из приложения, связанных библиотек и исходного кода и отдельной ОС. Каждая виртуальная машина получает часть ОЗУ и ЦП хост-машины.<br>
 > ``Docker Container``: получает своё собственное изолированное пространство, которое содержит само приложение и относящийся к нему исходный код.<br>
-
-![1](https://github.com/user-attachments/assets/bdfe768d-3d4f-41fc-b1e3-9f89edb55cd0)
+<img width="1066" height="485" alt="image" src="https://github.com/user-attachments/assets/73ad831f-c3b7-481a-b041-214e8d9c3563" />
 
 ##### Преимущества
 > Портативность<br>
 > Быстрая доставка и развёртывание приложений<br>
-![2](https://github.com/user-attachments/assets/c420fd6a-6abd-435d-94c2-5b32074c9470)
-
 <img width="466" height="537" alt="image" src="https://github.com/user-attachments/assets/86890caf-efe3-480a-b0dc-0f05ac132454" />
 
 
