@@ -124,7 +124,8 @@ update          |
 version         | 
 wait            | 
 
-![3](https://github.com/user-attachments/assets/6e83bd22-d2ff-4fc6-b789-7a2db4015eef)
+<img width="722" height="336" alt="image" src="https://github.com/user-attachments/assets/c54b64cf-c14d-445a-aab0-a00fb17f1ee2" />
+
 
 
 
