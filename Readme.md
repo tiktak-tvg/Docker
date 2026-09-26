@@ -8,7 +8,7 @@ Virtual Machines предоставляют нам hardware level virtualization
 > ``Virtual Machine``: состоит из приложения, связанных библиотек и исходного кода и отдельной ОС. Каждая виртуальная машина получает часть ОЗУ и ЦП хост-машины.<br>
 > ``Docker Container``: получает своё собственное изолированное пространство, которое содержит само приложение и относящийся к нему исходный код.<br>
 
-https://github.com/user-attachments/assets/bdfe768d-3d4f-41fc-b1e3-9f89edb55cd0
+![1]https://github.com/user-attachments/assets/bdfe768d-3d4f-41fc-b1e3-9f89edb55cd0
 
 ##### Преимущества
 > Портативность<br>
